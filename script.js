@@ -6,21 +6,21 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
 {
-    enunciado: "Quais são os desafios enfrentados na criação de tecnologias acessíveis e como podem ser superados?",
+    enunciado: "o que você prefere?",
     alternativas: [
         {
-            texto:"Custos elevados",
+            texto:"o Brasi ganhar o hexa",
             afirmacao: "afirmação 1"
         },
         {
-        texto:"Conscientização e educação",
+        texto:"barcelona vencer uma champions",
         afirmacao: "afirmação 2"
         }
     ]
 },
 
 {
-    enunciado: "Como você pode ajudar a combater a disseminação de fake news, especialmente as que perpetuam o racismo?",
+    enunciado: "",
     alternativas: [
         {
 
